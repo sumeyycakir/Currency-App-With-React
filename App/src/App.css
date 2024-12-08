@@ -1,0 +1,9 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url(images/pexels-cottonbro-3943719.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
